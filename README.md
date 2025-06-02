@@ -1,5 +1,6 @@
 <!-- markdownlint-disable MD041 -->
 <p align="center">
+
     <img width="400px" height=auto src="https://dyltqmyl993wv.cloudfront.net/bitnami/bitnami-by-vmware.png" />
 </p>
 
